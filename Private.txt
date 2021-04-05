@@ -1,0 +1,5 @@
+Name: Yang Yue
+PID: A16147490
+
+gitignore path:  
+ignore1.gitignore
