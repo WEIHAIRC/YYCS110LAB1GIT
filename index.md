@@ -1,5 +1,5 @@
 # Yang Yue
-[Taken in a travel](image_general/CSE110_PHOTO1.jpg)
+[Taken in a travel](image_general/CSE110_PHOTO1)
 
 ## Brief Introduction of myself
 My name is Yang Yue. I am 20 years old. I grew up in Beijing, China, and my hometown is Shandong. My hobby is soccer. I am humorous and friendly :joy:
@@ -12,7 +12,7 @@ I am a second-year student of Warren College, UCSD. I have strong interests in *
 - [x] Visit hometown Weifang, Shandong
 - [x] Visit hometown Weihai, Shandong
 - [x] Travel for at least 1 time (except visiting hometown)
-- [ ] Be unavailable :wolf:
+- [ ] Be unavailable
 - [ ] Be admitted by an intern or summer research program (*before May*)
 - [ ] Mitigate my procrastination
 
