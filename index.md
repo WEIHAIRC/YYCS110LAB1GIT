@@ -39,22 +39,20 @@ https://docs.python.org/3/
 - Java
 1. Java 11 API Speciations, Oracle
 https://docs.oracle.com/en/java/javase/11/docs/api/index.html
-
 2. Java Documentation, Oracle
 https://docs.oracle.com/en/java/
 
 - C++
 1. cplusplus.com, 
 http://cplusplus.com/
-
 2. Data Structure Visualization
 https://www.cs.usfca.edu/~galles/visualization/
 
 
 Finally, your can run the following java code to cheer on the new quarter!
-'''
+```
 System.out.println("Cheer on Spring 2021!")
-'''
+```
 
  
 
