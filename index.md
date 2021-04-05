@@ -17,6 +17,7 @@ I am a second-year student of Warren College, UCSD. I have strong interests in *
 Li, Bai, one of the greatest Chinese ancient poem says:
 >"长风破浪会有时，直挂云帆济沧海"
 >*I believe that one day, we can ride the long wind to break through the waves, hang up the cloud sail high, and march forward bravely in the sea.*
+
 That motto encourages people to be persistent and believe that difficulties can finally be overcome.
 I want to encourage myself by this motto: we can finally overcome difficulties of COVID-19.
 
