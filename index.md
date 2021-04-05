@@ -1,5 +1,5 @@
 # Yang Yue
-[Taken in a travel](image_general/CSE110_PHOTO1)
+![Taken in a travel](image_general/CSE110_PHOTO1.jpg)
 
 ## Brief Introduction of myself
 My name is Yang Yue. I am 20 years old. I grew up in Beijing, China, and my hometown is Shandong. My hobby is soccer. I am humorous and friendly :joy:
@@ -16,6 +16,10 @@ I am a second-year student of Warren College, UCSD. I have strong interests in *
 - [ ] Be admitted by an intern or summer research program (*before May*)
 - [ ] Mitigate my procrastination
 
+## Motto
+Li, Bai, one of the greatest Chinese ancient poem says:
+*"长风破浪会有时，直挂云帆济沧海"* 
+*"I believe that one day, we can ride the long wind to break through the waves, hang up the cloud sail high, and march forward bravely in the sea."*
 
  
 
