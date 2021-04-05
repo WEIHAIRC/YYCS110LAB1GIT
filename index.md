@@ -50,6 +50,12 @@ http://cplusplus.com/
 2. Data Structure Visualization
 https://www.cs.usfca.edu/~galles/visualization/
 
+
+Finally, your can run the following java code to cheer on the new quarter!
+'''
+System.out.println("Cheer on Spring 2021!")
+'''
+
  
 
  
